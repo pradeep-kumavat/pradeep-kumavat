@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently workin on Nextjs and Typescript<br>
+I'm currently working on Nextjs and Typescript<br>
 
 
 ## 🌐 Socials:
