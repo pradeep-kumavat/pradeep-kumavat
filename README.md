@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working in Nextjs and Typescript.<br>- 📚 I'm currently learning Machine Learning.<br>- ⚡ In my free time I watch Anime</p>
+<p align="left">- 🔭 I’m working in Nextjs and Typescript.<br>- 📚 I'm currently learning Machine Learning algorithms.<br>- ⚡ In my free time I watch Anime</p>
 
 ###
 
