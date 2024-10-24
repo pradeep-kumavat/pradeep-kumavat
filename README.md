@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working in Nextjs and Typescript.<br>- 📚 I'm currently learning Machine Learning algorithms.<br>- ⚡ In my free time I watch Anime</p>
+<p align="left">- 🔭 I’m working in Nextjs and Typescript.<br>- 📚 I'm currently learning Machine Learning.<br>- ⚡ In my free time I watch Anime</p>
 
 ###
 
@@ -50,11 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 
 ###
 
