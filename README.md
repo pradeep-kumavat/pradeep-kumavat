@@ -3,7 +3,6 @@
 ###
 
 <h3 align="center">A Fullstack Developer from India</h3>
-
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
