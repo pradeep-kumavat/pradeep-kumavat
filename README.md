@@ -1,8 +1,10 @@
-<h1 align="center">Hey👋<br>I am Pradeep Kumavat</h1>
+<h1 align="center">Hey👋,<br>I am Pradeep Kumavat</h1>
 
 ###
 
 <h3 align="center">A Fullstack Developer from India</h3>
+
+###
 
 <h3 align="left">👩‍💻  About Me :</h3>
 
@@ -50,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
 </div>
 
 ###
